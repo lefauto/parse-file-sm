@@ -1,0 +1,8 @@
+<HTML>
+    <head>
+        <title>Simple Markup</title>
+    </head>
+    <body>
+        <a>teste do analisador lexico.</a>
+    </body>
+</HTML>
